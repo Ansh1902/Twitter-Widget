@@ -15,7 +15,7 @@
         const apiUrl = 'https://api.twitter.com/2/users/KandolaNetwork/tweets';
 
         // Your Twitter API bearer token
-        const bearerToken = 'AAAAAAAAAAAAAAAAAAAAAJlwsQEAAAAAcECDURqIOgrav6LFcCUvLD%2BrXQI%3D7jDVzOe60TTVbTc2oF9JQcGvX6tIHdsSYinHWQTnmWi51ckS0b';
+        const bearerToken = '******';
 
         // Fetch tweets
         fetch(apiUrl, {
